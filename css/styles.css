@@ -351,6 +351,10 @@ h6 {
 .section-customers .section-inner a:hover {
   opacity: 1;
 }
+
+.section-customers .section-inner a:focus {
+  outline: 0;
+}
 /* === / CUSTOMERS === */
 
 
